@@ -1,0 +1,9 @@
+{
+  "text.pwg.title": "Procedural Worldgen Mod",
+  "text.pwg.overrides": "Overrides",
+  "text.pwg.raw": "Raw Generation",
+  "text.pwg.feature": "Feature Generation",
+  "text.pwg.structure": "Structure Generation",
+  "text.pwg.open_file": "Open File Location",
+  "text.pwg.open_examples": "Open Examples"
+}
