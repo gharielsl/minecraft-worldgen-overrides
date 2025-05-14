@@ -12,7 +12,7 @@ Using this mod you can:
 - Anything else.
 
 ## RuntimeUtil
-RuntimeUtil is a class with static method you can use to modify the terrain and get useful information.
+RuntimeUtil is a class with static methods you can use to modify the terrain and get useful information.
 
 Methods:
 ```java
